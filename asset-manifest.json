@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/maxunbearable/weather.git/static/css/main.0a7f35fd.chunk.css",
-    "main.js": "/maxunbearable/weather.git/static/js/main.ea1cd4df.chunk.js",
-    "main.js.map": "/maxunbearable/weather.git/static/js/main.ea1cd4df.chunk.js.map",
-    "runtime-main.js": "/maxunbearable/weather.git/static/js/runtime-main.cb2115b2.js",
-    "runtime-main.js.map": "/maxunbearable/weather.git/static/js/runtime-main.cb2115b2.js.map",
-    "static/js/2.ec12b9d8.chunk.js": "/maxunbearable/weather.git/static/js/2.ec12b9d8.chunk.js",
-    "static/js/2.ec12b9d8.chunk.js.map": "/maxunbearable/weather.git/static/js/2.ec12b9d8.chunk.js.map",
-    "static/js/3.b1edd151.chunk.js": "/maxunbearable/weather.git/static/js/3.b1edd151.chunk.js",
-    "static/js/3.b1edd151.chunk.js.map": "/maxunbearable/weather.git/static/js/3.b1edd151.chunk.js.map",
-    "index.html": "/maxunbearable/weather.git/index.html",
-    "static/css/main.0a7f35fd.chunk.css.map": "/maxunbearable/weather.git/static/css/main.0a7f35fd.chunk.css.map",
-    "static/js/2.ec12b9d8.chunk.js.LICENSE.txt": "/maxunbearable/weather.git/static/js/2.ec12b9d8.chunk.js.LICENSE.txt"
+    "main.css": "/weather/static/css/main.0a7f35fd.chunk.css",
+    "main.js": "/weather/static/js/main.ea1cd4df.chunk.js",
+    "main.js.map": "/weather/static/js/main.ea1cd4df.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.0dbc6e15.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.0dbc6e15.js.map",
+    "static/js/2.ec12b9d8.chunk.js": "/weather/static/js/2.ec12b9d8.chunk.js",
+    "static/js/2.ec12b9d8.chunk.js.map": "/weather/static/js/2.ec12b9d8.chunk.js.map",
+    "static/js/3.b1edd151.chunk.js": "/weather/static/js/3.b1edd151.chunk.js",
+    "static/js/3.b1edd151.chunk.js.map": "/weather/static/js/3.b1edd151.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "static/css/main.0a7f35fd.chunk.css.map": "/weather/static/css/main.0a7f35fd.chunk.css.map",
+    "static/js/2.ec12b9d8.chunk.js.LICENSE.txt": "/weather/static/js/2.ec12b9d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb2115b2.js",
+    "static/js/runtime-main.0dbc6e15.js",
     "static/js/2.ec12b9d8.chunk.js",
     "static/css/main.0a7f35fd.chunk.css",
     "static/js/main.ea1cd4df.chunk.js"
